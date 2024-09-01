@@ -57,18 +57,20 @@ const MccList: React.FC = () => {
       </Flex>
 
       <Box>
-        {filteredMccList.map((item: MccJsonProps) => (
-          <Flex
-            key={item.MCC}
-            justify="space-between"
-            p="2"
-            borderBottom="1px"
-            borderColor="gray.200"
-          >
-            <Box fontWeight="semibold">{formatMccCode(item.MCC)}</Box>
-            <Box>{item.Description}</Box>
-          </Flex>
-        ))}
+        {filteredMccList
+          .sort((a, b) => Number(a.MCC) - Number(b.MCC))
+          .map((item: MccJsonProps) => (
+            <Flex
+              key={item.MCC}
+              justify="space-between"
+              p="2"
+              borderBottom="1px"
+              borderColor="gray.200"
+            >
+              <Box fontWeight="semibold">{formatMccCode(item.MCC)}</Box>
+              <Box>{item.Description}</Box>
+            </Flex>
+          ))}
       </Box>
     </Box>
   );
