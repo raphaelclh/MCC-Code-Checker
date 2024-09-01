@@ -1,0 +1,3586 @@
+[
+  {
+    "MCC": "742",
+    "Description": "Veterinary Services "
+  },
+  {
+    "MCC": "763",
+    "Description": "Agricultural Cooperatives "
+  },
+  {
+    "MCC": "780",
+    "Description": "Horticultural and Landscaping Services "
+  },
+  {
+    "MCC": "1520",
+    "Description": "General Contractors–Residential and Commercial "
+  },
+  {
+    "MCC": "1711",
+    "Description": "Air Conditioning, Heating and Plumbing Contractors "
+  },
+  {
+    "MCC": "1731",
+    "Description": "Electrical Contractors "
+  },
+  {
+    "MCC": "1740",
+    "Description": "Insulation, Masonry, Plastering, Stonework and Tile Setting Contractors"
+  },
+  {
+    "MCC": "1750",
+    "Description": "Carpentry Contractors "
+  },
+  {
+    "MCC": "1761",
+    "Description": "Roofing and Siding, Sheet Metal Work Contractors "
+  },
+  {
+    "MCC": "1771",
+    "Description": "Concrete Work Contractors "
+  },
+  {
+    "MCC": "1799",
+    "Description": "Contractors, Special Trade Contractors–not elsewhere classified"
+  },
+  {
+    "MCC": "2741",
+    "Description": "Miscellaneous Publishing and Printing "
+  },
+  {
+    "MCC": "2791",
+    "Description": "Typesetting, Plate Making and Related Services "
+  },
+  {
+    "MCC": "2842",
+    "Description": "Sanitation, Polishing and Specialty Cleaning Preparations"
+  },
+  {
+    "MCC": "4011",
+    "Description": "Railroads–Freight "
+  },
+  {
+    "MCC": "4111",
+    "Description": "Transportation–Suburban and Local Commuter Passenger, including Ferries"
+  },
+  {
+    "MCC": "4112",
+    "Description": "Passenger Railways "
+  },
+  {
+    "MCC": "4119",
+    "Description": "Ambulance Services "
+  },
+  {
+    "MCC": "4121",
+    "Description": "Taxicabs and Limousines "
+  },
+  {
+    "MCC": "4131",
+    "Description": "Bus Lines "
+  },
+  {
+    "MCC": "4214",
+    "Description": "Motor Freight Carriers,Trucking–Local/Long Distance, Moving and Storage Companies, Local Delivery"
+  },
+  {
+    "MCC": "4215",
+    "Description": "Courier Services–Air and Ground, Freight Forwarders "
+  },
+  {
+    "MCC": "4225",
+    "Description": "Public Warehousing–Farm Products, Refrigerated Goods, Household Goods Storage"
+  },
+  {
+    "MCC": "4411",
+    "Description": "Cruise Lines "
+  },
+  {
+    "MCC": "4457",
+    "Description": "Boat Leases and Boat Rentals "
+  },
+  {
+    "MCC": "4468",
+    "Description": "Marinas, Marine Service/Supplies "
+  },
+  {
+    "MCC": "4511",
+    "Description": "Air Carriers, Airlines–not elsewhere classified "
+  },
+  {
+    "MCC": "4582",
+    "Description": "Airports, Airport Terminals, Flying Fields "
+  },
+  {
+    "MCC": "4722",
+    "Description": "Travel Agencies and Tour Operators "
+  },
+  {
+    "MCC": "4723",
+    "Description": "Package Tour Operators (Germany Only) "
+  },
+  {
+    "MCC": "4761",
+    "Description": "Telemarketing of Travel Related Services and Vitamins"
+  },
+  {
+    "MCC": "4784",
+    "Description": "Bridge and Road Fees, Tolls "
+  },
+  {
+    "MCC": "4789",
+    "Description": "Transportation Services Not Elsewhere Classified "
+  },
+  {
+    "MCC": "4812",
+    "Description": "Telecommunication Equipment Including Telephone Sales"
+  },
+  {
+    "MCC": "4813",
+    "Description": "Key-Entry Telecom Merchant providing single local and long-distance phone calls using a central access number in a non-face-to-face environment using key entry"
+  },
+  {
+    "MCC": "4814",
+    "Description": "Telecommunication Services including but not limited to prepaid phone services and recurring phone services"
+  },
+  {
+    "MCC": "4816",
+    "Description": "Computer Network/Information Services "
+  },
+  {
+    "MCC": "4821",
+    "Description": "Telegraph Services "
+  },
+  {
+    "MCC": "4829",
+    "Description": "Wire Transfer Money Orders (V, D, G, X) Money Transfer (M)"
+  },
+  {
+    "MCC": "4899",
+    "Description": "Cable, Satellite, and Other Pay Television and Radio Services"
+  },
+  {
+    "MCC": "4900",
+    "Description": "Utilities–Electric, Gas, Heating Oil, Sanitary, Water "
+  },
+  {
+    "MCC": "5013",
+    "Description": "Motor Vehicle Supplies and New Parts "
+  },
+  {
+    "MCC": "5021",
+    "Description": "Office and Commercial Furniture "
+  },
+  {
+    "MCC": "5039",
+    "Description": "Construction Materials Not Elsewhere Classified "
+  },
+  {
+    "MCC": "5044",
+    "Description": "Office, Photographic, Photocopy and Microfilm Equipment"
+  },
+  {
+    "MCC": "5045",
+    "Description": "Computers, Computer Peripheral Equipment, Software"
+  },
+  {
+    "MCC": "5046",
+    "Description": "Commercial Equipment Not Elsewhere Classified "
+  },
+  {
+    "MCC": "5047",
+    "Description": "Dental/Laboratory/Medical/Ophthalmic Hospital Equipment and Supplies"
+  },
+  {
+    "MCC": "5051",
+    "Description": "Metal Service Centers and Offices "
+  },
+  {
+    "MCC": "5065",
+    "Description": "Electrical Parts and Equipment "
+  },
+  {
+    "MCC": "5072",
+    "Description": "Hardware Equipment and Supplies "
+  },
+  {
+    "MCC": "5074",
+    "Description": "Plumbing and Heating Equipment "
+  },
+  {
+    "MCC": "5085",
+    "Description": "Industrial Supplies Not Elsewhere Classified "
+  },
+  {
+    "MCC": "5094",
+    "Description": "Precious Stones and Metals, Watches and Jewelry "
+  },
+  {
+    "MCC": "5099",
+    "Description": "Durable Goods Not Elsewhere Classified "
+  },
+  {
+    "MCC": "5111",
+    "Description": "Stationery, Office Supplies, Printing and Writing Paper"
+  },
+  {
+    "MCC": "5122",
+    "Description": "Drugs, Drug Proprietors and Druggists Sundries "
+  },
+  {
+    "MCC": "5131",
+    "Description": "Piece Goods, Notions, and Other Dry Goods "
+  },
+  {
+    "MCC": "5137",
+    "Description": "Men’s, Women’s and Children’s Uniforms and Commercial Clothing"
+  },
+  {
+    "MCC": "5139",
+    "Description": "Commercial Footware "
+  },
+  {
+    "MCC": "5169",
+    "Description": "Chemicals and Allied Products Not Elsewhere Classified"
+  },
+  {
+    "MCC": "5172",
+    "Description": "Petroleum and Petroleum Products "
+  },
+  {
+    "MCC": "5192",
+    "Description": "Books, Periodicals and Newspapers "
+  },
+  {
+    "MCC": "5193",
+    "Description": "Florists Supplies, Nursery Stock and Flowers "
+  },
+  {
+    "MCC": "5198",
+    "Description": "Paints, Varnishes and Supplies "
+  },
+  {
+    "MCC": "5199",
+    "Description": "Non-Durable Goods Not Elsewhere Classified "
+  },
+  {
+    "MCC": "5200",
+    "Description": "Home Supply Warehouse Stores "
+  },
+  {
+    "MCC": "5211",
+    "Description": "Building Materials, Lumber Stores "
+  },
+  {
+    "MCC": "5231",
+    "Description": "Glass, Paint, Wallpaper Stores "
+  },
+  {
+    "MCC": "5251",
+    "Description": "Hardware Stores "
+  },
+  {
+    "MCC": "5261",
+    "Description": "Lawn and Garden Supply Stores "
+  },
+  {
+    "MCC": "5271",
+    "Description": "Mobile Home Dealers "
+  },
+  {
+    "MCC": "5299",
+    "Description": "Warehouse Club Gas "
+  },
+  {
+    "MCC": "5300",
+    "Description": "Wholesale Clubs "
+  },
+  {
+    "MCC": "5309",
+    "Description": "Duty Free Stores "
+  },
+  {
+    "MCC": "5310",
+    "Description": "Discount Stores "
+  },
+  {
+    "MCC": "5311",
+    "Description": "Department Stores "
+  },
+  {
+    "MCC": "5331",
+    "Description": "Variety Stores "
+  },
+  {
+    "MCC": "5399",
+    "Description": "Miscellaneous General Merchandise Stores "
+  },
+  {
+    "MCC": "5411",
+    "Description": "Grocery Stores, Supermarkets "
+  },
+  {
+    "MCC": "5422",
+    "Description": "Freezer and Locker Meat Provisioners "
+  },
+  {
+    "MCC": "5441",
+    "Description": "Candy, Nut and Confectionery Stores "
+  },
+  {
+    "MCC": "5451",
+    "Description": "Dairy Products Stores "
+  },
+  {
+    "MCC": "5462",
+    "Description": "Bakeries "
+  },
+  {
+    "MCC": "5499",
+    "Description": "Miscellaneous Food Stores–Convenience Stores, Markets, Specialty Stores, and Vendin"
+  },
+  {
+    "MCC": "5541",
+    "Description": "Service Stations (With or Without Ancillary Services)"
+  },
+  {
+    "MCC": "5542",
+    "Description": "Fuel Dispenser, Automated "
+  },
+  {
+    "MCC": "5551",
+    "Description": "Boat Dealers "
+  },
+  {
+    "MCC": "5561",
+    "Description": "Camper Dealers, Recreational and Utility Trailers "
+  },
+  {
+    "MCC": "5571",
+    "Description": "Motorcycle Shops and Dealers "
+  },
+  {
+    "MCC": "5592",
+    "Description": "Motor Home Dealers "
+  },
+  {
+    "MCC": "5598",
+    "Description": "Snowmobile Dealers "
+  },
+  {
+    "MCC": "5599",
+    "Description": "Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers–Not Elsewhere Classified"
+  },
+  {
+    "MCC": "5611",
+    "Description": "Men’s and Boys’ Clothing and Accessories Stores "
+  },
+  {
+    "MCC": "5621",
+    "Description": "Women’s Ready to Wear Stores "
+  },
+  {
+    "MCC": "5631",
+    "Description": "Women’s Accessory and Specialty Stores "
+  },
+  {
+    "MCC": "5641",
+    "Description": "Children’s and Infants’ Wear Stores "
+  },
+  {
+    "MCC": "5651",
+    "Description": "Family Clothing Stores "
+  },
+  {
+    "MCC": "5655",
+    "Description": "Sports Apparel, and Riding Apparel Stores "
+  },
+  {
+    "MCC": "5661",
+    "Description": "Shoe Stores "
+  },
+  {
+    "MCC": "5681",
+    "Description": "Furriers and Fur Shops "
+  },
+  {
+    "MCC": "5691",
+    "Description": "Men’s and Women’s Clothing Stores "
+  },
+  {
+    "MCC": "5697",
+    "Description": "Alterations, Mending, Seamstresses, Tailors "
+  },
+  {
+    "MCC": "5698",
+    "Description": "Wig and Toupee Shops "
+  },
+  {
+    "MCC": "5699",
+    "Description": "Accessory and Apparel Stores–Miscellaneous "
+  },
+  {
+    "MCC": "5712",
+    "Description": "Equipment, Furniture and Home Furnishings Stores (except Appliances)"
+  },
+  {
+    "MCC": "5713",
+    "Description": "Floor Covering Stores "
+  },
+  {
+    "MCC": "5714",
+    "Description": "Drapery, Upholstery and Window Coverings Stores "
+  },
+  {
+    "MCC": "5718",
+    "Description": "Fireplace, Fireplace Screens and Accessories Stores "
+  },
+  {
+    "MCC": "5719",
+    "Description": "Miscellaneous House Furnishing Specialty Shops "
+  },
+  {
+    "MCC": "5722",
+    "Description": "Household Appliance Stores "
+  },
+  {
+    "MCC": "5732",
+    "Description": "Electronics Sales "
+  },
+  {
+    "MCC": "5733",
+    "Description": "Music Stores–Musical Instruments, Pianos and Sheet Music"
+  },
+  {
+    "MCC": "5734",
+    "Description": "Computer Software Stores "
+  },
+  {
+    "MCC": "5735",
+    "Description": "Record Shops "
+  },
+  {
+    "MCC": "5811",
+    "Description": "Caterers "
+  },
+  {
+    "MCC": "5812",
+    "Description": "Eating Places and Restaurants "
+  },
+  {
+    "MCC": "5813",
+    "Description": "Bars, Cocktail Lounges, Discotheques, Nightclubs and Taverns–Drinking Places (Alcoholic Beverages)"
+  },
+  {
+    "MCC": "5814",
+    "Description": "Fast Food Restaurants "
+  },
+  {
+    "MCC": "5815",
+    "Description": "Digital Goods: Books, Movies, Music "
+  },
+  {
+    "MCC": "5816",
+    "Description": "Digital Goods: Games "
+  },
+  {
+    "MCC": "5817",
+    "Description": "Digital Goods: Applications (Excludes Games) "
+  },
+  {
+    "MCC": "5818",
+    "Description": "Digital Goods: Large Digital Goods Merchant (V) Digital Goods: Multi-Category (M)"
+  },
+  {
+    "MCC": "5912",
+    "Description": "Drug Stores and Pharmacies "
+  },
+  {
+    "MCC": "5921",
+    "Description": "Package Stores–Beer, Wine and Liquor "
+  },
+  {
+    "MCC": "5931",
+    "Description": "Second Hand Stores, Used Merchandise Stores "
+  },
+  {
+    "MCC": "5932",
+    "Description": "Antique Shops–Sales, Repairs and Restoration Services"
+  },
+  {
+    "MCC": "5933",
+    "Description": "Pawn Shops "
+  },
+  {
+    "MCC": "5935",
+    "Description": "Wrecking and Salvage Yards "
+  },
+  {
+    "MCC": "5937",
+    "Description": "Antique Reproduction Stores "
+  },
+  {
+    "MCC": "5940",
+    "Description": "Bicycle Shops–Sales and Service "
+  },
+  {
+    "MCC": "5941",
+    "Description": "Sporting Goods Stores "
+  },
+  {
+    "MCC": "5942",
+    "Description": "Book Stores "
+  },
+  {
+    "MCC": "5943",
+    "Description": "Office, School Supply and Stationery Stores "
+  },
+  {
+    "MCC": "5944",
+    "Description": "Clock, Jewelry, Watch and Silverware Stores "
+  },
+  {
+    "MCC": "5945",
+    "Description": "Game, Toy and Hobby Shops "
+  },
+  {
+    "MCC": "5946",
+    "Description": "Camera and Photographic Supply Stores "
+  },
+  {
+    "MCC": "5947",
+    "Description": "Card, Gift, Novelty and Souvenir Shops "
+  },
+  {
+    "MCC": "5948",
+    "Description": "Leather Goods and Luggage Stores "
+  },
+  {
+    "MCC": "5949",
+    "Description": "Fabric, Needlework, Piece Goods and Sewing Stores "
+  },
+  {
+    "MCC": "5950",
+    "Description": "Crystal and Glassware Stores "
+  },
+  {
+    "MCC": "5960",
+    "Description": "Direct Marketing Insurance Services "
+  },
+  {
+    "MCC": "5961",
+    "Description": "Mail Order Houses Including Catalog Order Stores "
+  },
+  {
+    "MCC": "5962",
+    "Description": "Direct Marketing–Travel Related Arrangement Services"
+  },
+  {
+    "MCC": "5963",
+    "Description": "Door-to-Door Sales "
+  },
+  {
+    "MCC": "5964",
+    "Description": "Direct Marketing–Catalog Merchants "
+  },
+  {
+    "MCC": "5965",
+    "Description": "Direct Marketing–Combination Catalog and Retail Merchant"
+  },
+  {
+    "MCC": "5966",
+    "Description": "Direct Marketing–Outbound Telemarketing Merchants "
+  },
+  {
+    "MCC": "5967",
+    "Description": "Direct Marketing–Inbound Telemarketing Merchants "
+  },
+  {
+    "MCC": "5968",
+    "Description": "Direct Marketing–Continuity/Subscription Merchants "
+  },
+  {
+    "MCC": "5969",
+    "Description": "Direct Marketing–Other Direct Marketers–Not Elsewhere Classified"
+  },
+  {
+    "MCC": "5970",
+    "Description": "Artist Supply Stores, Craft Shops "
+  },
+  {
+    "MCC": "5971",
+    "Description": "Art Dealers and Galleries "
+  },
+  {
+    "MCC": "5972",
+    "Description": "Stamp and Coin Stores–Philatelic and Numismatic Supplies"
+  },
+  {
+    "MCC": "5973",
+    "Description": "Religious Goods Stores "
+  },
+  {
+    "MCC": "5974",
+    "Description": "Rubber Stamp Store "
+  },
+  {
+    "MCC": "5975",
+    "Description": "Hearing Aids–Sales, Service, Supply Stores "
+  },
+  {
+    "MCC": "5976",
+    "Description": "Orthopedic Goods–Artificial Limb Stores "
+  },
+  {
+    "MCC": "5977",
+    "Description": "Cosmetic Stores "
+  },
+  {
+    "MCC": "5978",
+    "Description": "Typewriter Stores–Rentals, Sales, Service "
+  },
+  {
+    "MCC": "5983",
+    "Description": "Fuel Dealers–Coal, Fuel Oil, Liquefied Petroleum, Wood"
+  },
+  {
+    "MCC": "5992",
+    "Description": "Florists "
+  },
+  {
+    "MCC": "5993",
+    "Description": "Cigar Stores and Stands "
+  },
+  {
+    "MCC": "5994",
+    "Description": "News Dealers and Newsstands "
+  },
+  {
+    "MCC": "5995",
+    "Description": "Pet Shops, Pet Food and Supplies "
+  },
+  {
+    "MCC": "5996",
+    "Description": "Swimming Pools–Sales and Supplies "
+  },
+  {
+    "MCC": "5997",
+    "Description": "Electric Razor Stores–Sales and Service "
+  },
+  {
+    "MCC": "5998",
+    "Description": "Tent and Awning Shops "
+  },
+  {
+    "MCC": "5999",
+    "Description": "Miscellaneous and Specialty Retail Stores "
+  },
+  {
+    "MCC": "6010",
+    "Description": "Member Financial Institution–Manual Cash Disbursements"
+  },
+  {
+    "MCC": "6011",
+    "Description": "Member Financial Institution–Automated Cash Disbursements"
+  },
+  {
+    "MCC": "6012",
+    "Description": "Member Financial Institution–Merchandise And Services"
+  },
+  {
+    "MCC": "6050",
+    "Description": "Quasi Cash–Member Financial Institution "
+  },
+  {
+    "MCC": "6051",
+    "Description": "Quasi Cash–Merchant "
+  },
+  {
+    "MCC": "6211",
+    "Description": "Securities–Brokers and Dealers "
+  },
+  {
+    "MCC": "6236",
+    "Description": "Aero Servicio Carabobo "
+  },
+  {
+    "MCC": "6300",
+    "Description": "Insurance Sales, Underwriting and Premiums "
+  },
+  {
+    "MCC": "6381",
+    "Description": "Insurance–Premiums "
+  },
+  {
+    "MCC": "6513",
+    "Description": "Real Estate Agents and Managers–Rentals "
+  },
+  {
+    "MCC": "6529",
+    "Description": "Remote Stored Value Load — Member Financial Institution"
+  },
+  {
+    "MCC": "6530",
+    "Description": "Remove Stored Value Load — Merchant "
+  },
+  {
+    "MCC": "6535",
+    "Description": "Value Purchase–Member Financial Institution "
+  },
+  {
+    "MCC": "6536",
+    "Description": "MoneySend Intracountry "
+  },
+  {
+    "MCC": "6537",
+    "Description": "MoneySend Intercountry "
+  },
+  {
+    "MCC": "6538",
+    "Description": "MoneySend Funding "
+  },
+  {
+    "MCC": "6539",
+    "Description": "Funding Transaction (Excluding MoneySend) "
+  },
+  {
+    "MCC": "6540",
+    "Description": "POI (Point of Interaction) Funding Transactions (Excluding MoneySend)"
+  },
+  {
+    "MCC": "6611",
+    "Description": "Overpayments "
+  },
+  {
+    "MCC": "6760",
+    "Description": "Savings Bonds "
+  },
+  {
+    "MCC": "7011",
+    "Description": "Lodging–Hotels, Motels, Resorts–not elsewhere classified"
+  },
+  {
+    "MCC": "7012",
+    "Description": "Timeshares "
+  },
+  {
+    "MCC": "7032",
+    "Description": "Sporting and Recreational Camps "
+  },
+  {
+    "MCC": "7033",
+    "Description": "Campgrounds and Trailer Parks "
+  },
+  {
+    "MCC": "7210",
+    "Description": "Cleaning, Garment and Laundry Services "
+  },
+  {
+    "MCC": "7211",
+    "Description": "Laundry Services–Family and Commercial "
+  },
+  {
+    "MCC": "7216",
+    "Description": "Dry Cleaners "
+  },
+  {
+    "MCC": "7217",
+    "Description": "Carpet and Upholstery Cleaning "
+  },
+  {
+    "MCC": "7221",
+    "Description": "Photographic Studios "
+  },
+  {
+    "MCC": "7230",
+    "Description": "Barber and Beauty Shops "
+  },
+  {
+    "MCC": "7251",
+    "Description": "Hat Cleaning Shops, Shoe Repair Shops, Shoe Shine Parlors"
+  },
+  {
+    "MCC": "7261",
+    "Description": "Funeral Service and Crematories "
+  },
+  {
+    "MCC": "7273",
+    "Description": "Dating Services "
+  },
+  {
+    "MCC": "7276",
+    "Description": "Tax Preparation Service "
+  },
+  {
+    "MCC": "7277",
+    "Description": "Debt, Marriage, Personal–Counseling Services "
+  },
+  {
+    "MCC": "7278",
+    "Description": "Buying/Shopping Clubs, Services "
+  },
+  {
+    "MCC": "7280",
+    "Description": "Hospital Patient-Personal Funds Withdrawal "
+  },
+  {
+    "MCC": "7295",
+    "Description": "Babysitting Services "
+  },
+  {
+    "MCC": "7296",
+    "Description": "Clothing Rental–Costumes, Uniforms and Formal Wear"
+  },
+  {
+    "MCC": "7297",
+    "Description": "Massage Parlors "
+  },
+  {
+    "MCC": "7298",
+    "Description": "Health and Beauty Spas "
+  },
+  {
+    "MCC": "7299",
+    "Description": "Other Services–Not Elsewhere Classified "
+  },
+  {
+    "MCC": "7311",
+    "Description": "Advertising Services "
+  },
+  {
+    "MCC": "7321",
+    "Description": "Consumer Credit Reporting Agencies "
+  },
+  {
+    "MCC": "7332",
+    "Description": "Blueprinting and Photocopying Services "
+  },
+  {
+    "MCC": "7333",
+    "Description": "Commercial Art, Graphics, Photography "
+  },
+  {
+    "MCC": "7338",
+    "Description": "Quick Copy, Reproduction and Blueprinting Services "
+  },
+  {
+    "MCC": "7339",
+    "Description": "Stenographic and Secretarial Support Services "
+  },
+  {
+    "MCC": "7342",
+    "Description": "Exterminating and Disinfecting Services "
+  },
+  {
+    "MCC": "7349",
+    "Description": "Cleaning and Maintenance, Janitorial Services "
+  },
+  {
+    "MCC": "7361",
+    "Description": "Employment Agencies and Temporary Help Services "
+  },
+  {
+    "MCC": "7372",
+    "Description": "Computer Programming, Data Processing and Integrated System Design Services"
+  },
+  {
+    "MCC": "7375",
+    "Description": "Information Retrieval Services "
+  },
+  {
+    "MCC": "7379",
+    "Description": "Computer Maintenance, Repair And Services–Not Elsewhere Classified"
+  },
+  {
+    "MCC": "7392",
+    "Description": "Consulting, Management and Public Relations Services"
+  },
+  {
+    "MCC": "7393",
+    "Description": "Detective Agencies, Protective Agencies, Security Services including Armored Cars, Guard Dogs"
+  },
+  {
+    "MCC": "7394",
+    "Description": "Equipment Rental and Leasing Services, Furniture Rental, Tool Rental"
+  },
+  {
+    "MCC": "7395",
+    "Description": "Photo Developing, Photofinishing Laboratories "
+  },
+  {
+    "MCC": "7399",
+    "Description": "Business Services Not Elsewhere Classified "
+  },
+  {
+    "MCC": "7512",
+    "Description": "Automobile Rental Agency–Not Elsewhere Classified"
+  },
+  {
+    "MCC": "7513",
+    "Description": "Truck Rental "
+  },
+  {
+    "MCC": "7519",
+    "Description": "Motor Home and Recreational Vehicle Rental "
+  },
+  {
+    "MCC": "7523",
+    "Description": "Automobile Parking Lots and Garages "
+  },
+  {
+    "MCC": "7524",
+    "Description": "Express Payment Service Merchants–Parking Lots and Garages"
+  },
+  {
+    "MCC": "7531",
+    "Description": "Automotive Body Repair Shops "
+  },
+  {
+    "MCC": "7534",
+    "Description": "Tire Retreading and Repair Shops "
+  },
+  {
+    "MCC": "7535",
+    "Description": "Automotive Paint Shops "
+  },
+  {
+    "MCC": "7538",
+    "Description": "Automotive Service Shops "
+  },
+  {
+    "MCC": "7542",
+    "Description": "Car Washes "
+  },
+  {
+    "MCC": "7549",
+    "Description": "Towing Services "
+  },
+  {
+    "MCC": "7622",
+    "Description": "Electronic Repair Shops "
+  },
+  {
+    "MCC": "7623",
+    "Description": "Air Conditioning and Refrigeration Repair Shops "
+  },
+  {
+    "MCC": "7629",
+    "Description": "Appliance Repair Shops, Electrical and Small "
+  },
+  {
+    "MCC": "7631",
+    "Description": "Clock, Jewelry and Watch Repair Shops "
+  },
+  {
+    "MCC": "7641",
+    "Description": "Furniture–Reupholstery, Repair and Refinishing "
+  },
+  {
+    "MCC": "7692",
+    "Description": "Welding Repair "
+  },
+  {
+    "MCC": "7699",
+    "Description": "Miscellaneous Repair Shops and Related Services "
+  },
+  {
+    "MCC": "7800",
+    "Description": "Government Owned Lottery "
+  },
+  {
+    "MCC": "7801",
+    "Description": "Government-Licensed Casinos (Online or Internet Gambling)"
+  },
+  {
+    "MCC": "7802",
+    "Description": "Government-Licensed Horse/Dog Racing "
+  },
+  {
+    "MCC": "7829",
+    "Description": "Motion Picture and Video Tape Production and Distribution"
+  },
+  {
+    "MCC": "7832",
+    "Description": "Motion Picture Theaters "
+  },
+  {
+    "MCC": "7833",
+    "Description": "Express Payment Service — Motion Picture Theater "
+  },
+  {
+    "MCC": "7841",
+    "Description": "DVD/Video Tape Rental Stores "
+  },
+  {
+    "MCC": "7911",
+    "Description": "Dance Halls, Schools and Studios "
+  },
+  {
+    "MCC": "7922",
+    "Description": "Theatrical Producers (Except Motion Pictures), Ticket Agencies"
+  },
+  {
+    "MCC": "7929",
+    "Description": "Bands, Orchestras and Miscellaneous Entertainers– Not Elsewhere Classified"
+  },
+  {
+    "MCC": "7932",
+    "Description": "Pool and Billiard Establishments "
+  },
+  {
+    "MCC": "7933",
+    "Description": "Bowling Alleys "
+  },
+  {
+    "MCC": "7941",
+    "Description": "Athletic Fields, Commercial Sports, Professional Sports Clubs, Sports Promoters"
+  },
+  {
+    "MCC": "7991",
+    "Description": "Tourist Attractions and Exhibits "
+  },
+  {
+    "MCC": "7992",
+    "Description": "Golf Courses, Public "
+  },
+  {
+    "MCC": "7993",
+    "Description": "Video Amusement Game Supplies "
+  },
+  {
+    "MCC": "7994",
+    "Description": "Video Game Arcades and Establishments "
+  },
+  {
+    "MCC": "7995",
+    "Description": "Gambling TransactionsBetting (Sportsbook, fantasy, social gaming; when regulated and not covered by other MCCs) (D)"
+  },
+  {
+    "MCC": "7996",
+    "Description": "Amusement Parks, Carnivals, Circuses, Carnivals, Fortune Tellers"
+  },
+  {
+    "MCC": "7997",
+    "Description": "Clubs–Country Clubs, Membership (Athletic, Recreation, Sports), Private Golf Courses"
+  },
+  {
+    "MCC": "7998",
+    "Description": "Aquariums, Dolphinariums, Zoos and Seaquariums "
+  },
+  {
+    "MCC": "7999",
+    "Description": "Recreation Services–Not Elsewhere Classified "
+  },
+  {
+    "MCC": "8011",
+    "Description": "Doctors–not elsewhere classified "
+  },
+  {
+    "MCC": "8021",
+    "Description": "Dentists and Orthodontists "
+  },
+  {
+    "MCC": "8031",
+    "Description": "Osteopathic Physicians "
+  },
+  {
+    "MCC": "8041",
+    "Description": "Chiropractors "
+  },
+  {
+    "MCC": "8042",
+    "Description": "Optometrists and Ophthalmologists "
+  },
+  {
+    "MCC": "8043",
+    "Description": "Opticians, Optical Goods and Eyeglasses "
+  },
+  {
+    "MCC": "8044",
+    "Description": "Optical Goods and Eyeglasses "
+  },
+  {
+    "MCC": "8049",
+    "Description": "Chiropodists, Podiatrists "
+  },
+  {
+    "MCC": "8050",
+    "Description": "Nursing and Personal Care Facilities "
+  },
+  {
+    "MCC": "8062",
+    "Description": "Hospitals "
+  },
+  {
+    "MCC": "8071",
+    "Description": "Dental and Medical Laboratories "
+  },
+  {
+    "MCC": "8099",
+    "Description": "Health Practitioners, Medical Services–Not Elsewhere Classified"
+  },
+  {
+    "MCC": "8111",
+    "Description": "Attorneys, Legal Services "
+  },
+  {
+    "MCC": "8211",
+    "Description": "Schools, Elementary and Secondary "
+  },
+  {
+    "MCC": "8220",
+    "Description": "Colleges, Universities, Professional Schools and Junior Colleges"
+  },
+  {
+    "MCC": "8241",
+    "Description": "Schools, Correspondence "
+  },
+  {
+    "MCC": "8244",
+    "Description": "Schools, Business and Secretarial "
+  },
+  {
+    "MCC": "8249",
+    "Description": "Schools, Trade and Vocational "
+  },
+  {
+    "MCC": "8299",
+    "Description": "Schools And Educational Services–Not Elsewhere Classified"
+  },
+  {
+    "MCC": "8351",
+    "Description": "Child Care Services "
+  },
+  {
+    "MCC": "8398",
+    "Description": "Organizations, Charitable and Social Service "
+  },
+  {
+    "MCC": "8641",
+    "Description": "Associations–Civic, Social and Fraternal "
+  },
+  {
+    "MCC": "8651",
+    "Description": "Organizations, Political "
+  },
+  {
+    "MCC": "8661",
+    "Description": "Organizations, Religious "
+  },
+  {
+    "MCC": "8675",
+    "Description": "Automobile Associations "
+  },
+  {
+    "MCC": "8699",
+    "Description": "Organizations, Membership–Not Elsewhere Classified"
+  },
+  {
+    "MCC": "8734",
+    "Description": "Testing Laboratories (Non-Medical) "
+  },
+  {
+    "MCC": "8743",
+    "Description": "Testing Laboratories (Non-Medical) "
+  },
+  {
+    "MCC": "8911",
+    "Description": "Architectural, Engineering and Surveying Services "
+  },
+  {
+    "MCC": "8931",
+    "Description": "Accounting, Auditing and Bookkeeping Services "
+  },
+  {
+    "MCC": "8999",
+    "Description": "Professional Services–Not Elsewhere Classified "
+  },
+  {
+    "MCC": "9034",
+    "Description": "I-Purchasing Pilot "
+  },
+  {
+    "MCC": "9211",
+    "Description": "Court Costs Including Alimony and Child Support "
+  },
+  {
+    "MCC": "9222",
+    "Description": "Fines "
+  },
+  {
+    "MCC": "9223",
+    "Description": "Bail and Bond Payments "
+  },
+  {
+    "MCC": "9311",
+    "Description": "Tax Payments "
+  },
+  {
+    "MCC": "9399",
+    "Description": "Government Services–Not Elsewhere Classified "
+  },
+  {
+    "MCC": "9401",
+    "Description": "I-Purchasing Pilot "
+  },
+  {
+    "MCC": "9402",
+    "Description": "Postal Services–Government Only "
+  },
+  {
+    "MCC": "9405",
+    "Description": "Intra-Government Purchases–Government Only "
+  },
+  {
+    "MCC": "9700",
+    "Description": "Automated Referral Service "
+  },
+  {
+    "MCC": "9701",
+    "Description": "Visa Credential Server "
+  },
+  {
+    "MCC": "9702",
+    "Description": "GCAS Emergency Services "
+  },
+  {
+    "MCC": "9751",
+    "Description": "UK Supermarkets, Electronic Hot File "
+  },
+  {
+    "MCC": "9752",
+    "Description": "UK Petrol Stations, Electronic Hot File "
+  },
+  {
+    "MCC": "9754",
+    "Description": "Gambling-Horse, Dog Racing, State Lottery "
+  },
+  {
+    "MCC": "9950",
+    "Description": "Intra-Company Purchases "
+  },
+  {
+    "MCC": "3000",
+    "Description": "United Airlines "
+  },
+  {
+    "MCC": "3001",
+    "Description": "American Airlines "
+  },
+  {
+    "MCC": "3002",
+    "Description": "Pan American "
+  },
+  {
+    "MCC": "3003",
+    "Description": "Eurofly "
+  },
+  {
+    "MCC": "3004",
+    "Description": "Dragon Airlines "
+  },
+  {
+    "MCC": "3005",
+    "Description": "British Airways "
+  },
+  {
+    "MCC": "3006",
+    "Description": "Japan Air Lines "
+  },
+  {
+    "MCC": "3007",
+    "Description": "Air France "
+  },
+  {
+    "MCC": "3008",
+    "Description": "Lufthansa German Airlines "
+  },
+  {
+    "MCC": "3009",
+    "Description": "Air Canada "
+  },
+  {
+    "MCC": "3010",
+    "Description": "Royal Dutch Airlines (KLM Airlines) "
+  },
+  {
+    "MCC": "3011",
+    "Description": "Aeroflot "
+  },
+  {
+    "MCC": "3012",
+    "Description": "Qantas "
+  },
+  {
+    "MCC": "3013",
+    "Description": "Alitalia "
+  },
+  {
+    "MCC": "3014",
+    "Description": "Saudi Arabian Airlines "
+  },
+  {
+    "MCC": "3015",
+    "Description": "Swiss International Air Lines "
+  },
+  {
+    "MCC": "3016",
+    "Description": "Scandinavian Airline System (SAS) "
+  },
+  {
+    "MCC": "3017",
+    "Description": "South African Airways "
+  },
+  {
+    "MCC": "3018",
+    "Description": "Varig "
+  },
+  {
+    "MCC": "3019",
+    "Description": "Germanwings "
+  },
+  {
+    "MCC": "3020",
+    "Description": "Air India "
+  },
+  {
+    "MCC": "3021",
+    "Description": "Air Algerie "
+  },
+  {
+    "MCC": "3022",
+    "Description": "Philippine Airlines "
+  },
+  {
+    "MCC": "3023",
+    "Description": "Mexicana "
+  },
+  {
+    "MCC": "3024",
+    "Description": "Pakistan International "
+  },
+  {
+    "MCC": "3025",
+    "Description": "Air New Zealand Ltd. International "
+  },
+  {
+    "MCC": "3026",
+    "Description": "Emirates Airlines "
+  },
+  {
+    "MCC": "3027",
+    "Description": "Union De Transports Aeriens (UTA/interair) "
+  },
+  {
+    "MCC": "3028",
+    "Description": "Air Malta "
+  },
+  {
+    "MCC": "3029",
+    "Description": "SN Brussels Airlines "
+  },
+  {
+    "MCC": "3030",
+    "Description": "Aerolineas Argentinas "
+  },
+  {
+    "MCC": "3031",
+    "Description": "Olympic Airways "
+  },
+  {
+    "MCC": "3032",
+    "Description": "El Al "
+  },
+  {
+    "MCC": "3033",
+    "Description": "Ansett Airlines "
+  },
+  {
+    "MCC": "3034",
+    "Description": "Etihadair "
+  },
+  {
+    "MCC": "3035",
+    "Description": "TAP Air Portugal (TAP) "
+  },
+  {
+    "MCC": "3036",
+    "Description": "Viacao Aerea Sao Pãulo (VASP) "
+  },
+  {
+    "MCC": "3037",
+    "Description": "Egyptair "
+  },
+  {
+    "MCC": "3038",
+    "Description": "Kuwait Airways "
+  },
+  {
+    "MCC": "3039",
+    "Description": "Avianca "
+  },
+  {
+    "MCC": "3040",
+    "Description": "Gulf Air (Bahrain) "
+  },
+  {
+    "MCC": "3041",
+    "Description": "Balkan-Bulgarian Airlines "
+  },
+  {
+    "MCC": "3042",
+    "Description": "Finnair "
+  },
+  {
+    "MCC": "3043",
+    "Description": "Aer Lingus "
+  },
+  {
+    "MCC": "3044",
+    "Description": "Air Lanka "
+  },
+  {
+    "MCC": "3045",
+    "Description": "Nigeria Airways "
+  },
+  {
+    "MCC": "3046",
+    "Description": "Cruzeiro Do Sul "
+  },
+  {
+    "MCC": "3047",
+    "Description": "Turk Hava Yollari "
+  },
+  {
+    "MCC": "3048",
+    "Description": "Royal Air Maroc "
+  },
+  {
+    "MCC": "3049",
+    "Description": "Tunis Air "
+  },
+  {
+    "MCC": "3050",
+    "Description": "Icelandair "
+  },
+  {
+    "MCC": "3051",
+    "Description": "Austrian Airlines "
+  },
+  {
+    "MCC": "3052",
+    "Description": "LAN Airlines "
+  },
+  {
+    "MCC": "3053",
+    "Description": "Aviacion Y Comercio (AVIACO) "
+  },
+  {
+    "MCC": "3054",
+    "Description": "Linea Aerea Del Cobre (LADECO) "
+  },
+  {
+    "MCC": "3055",
+    "Description": "Lloyd Aero Boliviano (LAB) "
+  },
+  {
+    "MCC": "3056",
+    "Description": "Jet Airways "
+  },
+  {
+    "MCC": "3057",
+    "Description": "Virgin America "
+  },
+  {
+    "MCC": "3058",
+    "Description": "Delta "
+  },
+  {
+    "MCC": "3059",
+    "Description": "DBA Airline "
+  },
+  {
+    "MCC": "3060",
+    "Description": "Northwest Airlines "
+  },
+  {
+    "MCC": "3061",
+    "Description": "Continental "
+  },
+  {
+    "MCC": "3062",
+    "Description": "Hapag-Lloyd Express "
+  },
+  {
+    "MCC": "3063",
+    "Description": "US Airways "
+  },
+  {
+    "MCC": "3064",
+    "Description": "Adria Airways "
+  },
+  {
+    "MCC": "3065",
+    "Description": "Airinter "
+  },
+  {
+    "MCC": "3066",
+    "Description": "Southwest Airlines "
+  },
+  {
+    "MCC": "3067",
+    "Description": "Vanguard Airlines "
+  },
+  {
+    "MCC": "3068",
+    "Description": "Air Astana "
+  },
+  {
+    "MCC": "3069",
+    "Description": "Sun Country Airlines "
+  },
+  {
+    "MCC": "3071",
+    "Description": "Air British Columbia "
+  },
+  {
+    "MCC": "3072",
+    "Description": "Cebu Pacific Airlines "
+  },
+  {
+    "MCC": "3076",
+    "Description": "Aeromexico "
+  },
+  {
+    "MCC": "3077",
+    "Description": "Thai Airways "
+  },
+  {
+    "MCC": "3078",
+    "Description": "China Airlines "
+  },
+  {
+    "MCC": "3079",
+    "Description": "Jetstar Airways "
+  },
+  {
+    "MCC": "3081",
+    "Description": "NordAir "
+  },
+  {
+    "MCC": "3082",
+    "Description": "Korean Airlines "
+  },
+  {
+    "MCC": "3083",
+    "Description": "Air Afrique "
+  },
+  {
+    "MCC": "3084",
+    "Description": "Eva Airways "
+  },
+  {
+    "MCC": "3085",
+    "Description": "Midwest Express Airlines "
+  },
+  {
+    "MCC": "3086",
+    "Description": "Carnival Airlines "
+  },
+  {
+    "MCC": "3087",
+    "Description": "Metro Airlines "
+  },
+  {
+    "MCC": "3088",
+    "Description": "Croatia Air "
+  },
+  {
+    "MCC": "3089",
+    "Description": "Transaero "
+  },
+  {
+    "MCC": "3090",
+    "Description": "Uni Airways Corporation "
+  },
+  {
+    "MCC": "3094",
+    "Description": "Zambia Airways "
+  },
+  {
+    "MCC": "3096",
+    "Description": "Air Zimbabwe Corp "
+  },
+  {
+    "MCC": "3097",
+    "Description": "Spanair "
+  },
+  {
+    "MCC": "3098",
+    "Description": "Asiana Airlines "
+  },
+  {
+    "MCC": "3099",
+    "Description": "Cathay Pacific "
+  },
+  {
+    "MCC": "3100",
+    "Description": "Malaysian Airline System "
+  },
+  {
+    "MCC": "3102",
+    "Description": "Iberia "
+  },
+  {
+    "MCC": "3106",
+    "Description": "Braathens S.A.F.E. "
+  },
+  {
+    "MCC": "3110",
+    "Description": "Wings Airways "
+  },
+  {
+    "MCC": "3111",
+    "Description": "British Midland "
+  },
+  {
+    "MCC": "3112",
+    "Description": "Windward Island "
+  },
+  {
+    "MCC": "3115",
+    "Description": "Tower Air "
+  },
+  {
+    "MCC": "3117",
+    "Description": "Venezolana International De Aviacion "
+  },
+  {
+    "MCC": "3118",
+    "Description": "Valley Airlines "
+  },
+  {
+    "MCC": "3125",
+    "Description": "Tan Sahsa "
+  },
+  {
+    "MCC": "3126",
+    "Description": "Talair PTY Ltd. "
+  },
+  {
+    "MCC": "3127",
+    "Description": "Taca International "
+  },
+  {
+    "MCC": "3129",
+    "Description": "Surinam Airways "
+  },
+  {
+    "MCC": "3130",
+    "Description": "Sunworld International "
+  },
+  {
+    "MCC": "3131",
+    "Description": "VLM Airlines "
+  },
+  {
+    "MCC": "3132",
+    "Description": "Frontier Airlines "
+  },
+  {
+    "MCC": "3133",
+    "Description": "Sunbelt Airlines "
+  },
+  {
+    "MCC": "3135",
+    "Description": "Sudan Airways "
+  },
+  {
+    "MCC": "3136",
+    "Description": "Qatar Airways "
+  },
+  {
+    "MCC": "3137",
+    "Description": "Singleton "
+  },
+  {
+    "MCC": "3138",
+    "Description": "Simmons Airlines "
+  },
+  {
+    "MCC": "3143",
+    "Description": "Scenic Airlines "
+  },
+  {
+    "MCC": "3144",
+    "Description": "Virgin Atlantic "
+  },
+  {
+    "MCC": "3145",
+    "Description": "San Juan "
+  },
+  {
+    "MCC": "3146",
+    "Description": "Luxair "
+  },
+  {
+    "MCC": "3148",
+    "Description": "Air Littoral S.A. "
+  },
+  {
+    "MCC": "3151",
+    "Description": "Air Zaire "
+  },
+  {
+    "MCC": "3154",
+    "Description": "Princeville "
+  },
+  {
+    "MCC": "3156",
+    "Description": "Go Fly Ltd. "
+  },
+  {
+    "MCC": "3159",
+    "Description": "Provincetown-Boston Airways "
+  },
+  {
+    "MCC": "3161",
+    "Description": "All Nipon Airways "
+  },
+  {
+    "MCC": "3164",
+    "Description": "Norontair "
+  },
+  {
+    "MCC": "3165",
+    "Description": "New York Helicopter "
+  },
+  {
+    "MCC": "3167",
+    "Description": "Aero Continente "
+  },
+  {
+    "MCC": "3170",
+    "Description": "Mount Cook "
+  },
+  {
+    "MCC": "3171",
+    "Description": "Canadian Airlines International "
+  },
+  {
+    "MCC": "3172",
+    "Description": "Nationair "
+  },
+  {
+    "MCC": "3174",
+    "Description": "Jetblue Airways "
+  },
+  {
+    "MCC": "3175",
+    "Description": "Middle East Air "
+  },
+  {
+    "MCC": "3176",
+    "Description": "Metroflight Airlines "
+  },
+  {
+    "MCC": "3177",
+    "Description": "AirTran Airways "
+  },
+  {
+    "MCC": "3178",
+    "Description": "Mesa Air "
+  },
+  {
+    "MCC": "3180",
+    "Description": "Westjet Airlines "
+  },
+  {
+    "MCC": "3181",
+    "Description": "Malev "
+  },
+  {
+    "MCC": "3182",
+    "Description": "LOT (Polish Airlines) "
+  },
+  {
+    "MCC": "3183",
+    "Description": "Oman Air "
+  },
+  {
+    "MCC": "3184",
+    "Description": "LIAT "
+  },
+  {
+    "MCC": "3185",
+    "Description": "Linea Aeropostal Venezolana (LAV) "
+  },
+  {
+    "MCC": "3186",
+    "Description": "Lineas Aereas Paraguayas (LAP) "
+  },
+  {
+    "MCC": "3187",
+    "Description": "LACSA (Costa Rica) "
+  },
+  {
+    "MCC": "3188",
+    "Description": "Virgin Express "
+  },
+  {
+    "MCC": "3190",
+    "Description": "Jugoslav Air "
+  },
+  {
+    "MCC": "3191",
+    "Description": "Island Airlines "
+  },
+  {
+    "MCC": "3193",
+    "Description": "Indian Airlines "
+  },
+  {
+    "MCC": "3196",
+    "Description": "Hawaiian Air "
+  },
+  {
+    "MCC": "3197",
+    "Description": "Havasu Airlines "
+  },
+  {
+    "MCC": "3200",
+    "Description": "Guyana Airways "
+  },
+  {
+    "MCC": "3203",
+    "Description": "Golden Pacific Air "
+  },
+  {
+    "MCC": "3204",
+    "Description": "Freedom Airlines "
+  },
+  {
+    "MCC": "3206",
+    "Description": "China Eastern Airlines "
+  },
+  {
+    "MCC": "3211",
+    "Description": "Norwegian Air Shuttle "
+  },
+  {
+    "MCC": "3212",
+    "Description": "Dominicana De Aviacion "
+  },
+  {
+    "MCC": "3213",
+    "Description": "Malmo Aviation "
+  },
+  {
+    "MCC": "3215",
+    "Description": "Dan Air Services "
+  },
+  {
+    "MCC": "3216",
+    "Description": "Cumberland Airlines "
+  },
+  {
+    "MCC": "3217",
+    "Description": "Ceskoslovenske Aerolinie (CSA) "
+  },
+  {
+    "MCC": "3218",
+    "Description": "Crown Air "
+  },
+  {
+    "MCC": "3219",
+    "Description": "Compania Panamena De Aviacion (COPA) "
+  },
+  {
+    "MCC": "3220",
+    "Description": "Compania Faucett "
+  },
+  {
+    "MCC": "3221",
+    "Description": "Transportes Aeros Militares "
+  },
+  {
+    "MCC": "3222",
+    "Description": "Command Airways "
+  },
+  {
+    "MCC": "3223",
+    "Description": "Comair "
+  },
+  {
+    "MCC": "3226",
+    "Description": "Skyways "
+  },
+  {
+    "MCC": "3228",
+    "Description": "Cayman Airways "
+  },
+  {
+    "MCC": "3229",
+    "Description": "SAETA (Sociedad Ecuatorianos De Transportes Aereos) "
+  },
+  {
+    "MCC": "3231",
+    "Description": "SAHSA (Servicio Aero De Honduras) "
+  },
+  {
+    "MCC": "3233",
+    "Description": "Capitol Air "
+  },
+  {
+    "MCC": "3234",
+    "Description": "Caribbean Airlines "
+  },
+  {
+    "MCC": "3235",
+    "Description": "Brockway Air "
+  },
+  {
+    "MCC": "3236",
+    "Description": "Air Arabia Airline "
+  },
+  {
+    "MCC": "3238",
+    "Description": "Bemidji Aviation "
+  },
+  {
+    "MCC": "3239",
+    "Description": "Bar Harbor Airlines "
+  },
+  {
+    "MCC": "3240",
+    "Description": "Bahamasair "
+  },
+  {
+    "MCC": "3241",
+    "Description": "Aviateca "
+  },
+  {
+    "MCC": "3242",
+    "Description": "Avensa "
+  },
+  {
+    "MCC": "3243",
+    "Description": "Austrian Air Service "
+  },
+  {
+    "MCC": "3245",
+    "Description": "Easyjet Air "
+  },
+  {
+    "MCC": "3246",
+    "Description": "Ryanair "
+  },
+  {
+    "MCC": "3247",
+    "Description": "Gol Airlines "
+  },
+  {
+    "MCC": "3248",
+    "Description": "Tam Airlines "
+  },
+  {
+    "MCC": "3251",
+    "Description": "Aloha Airlines "
+  },
+  {
+    "MCC": "3252",
+    "Description": "Antilean Airlines (ALM) "
+  },
+  {
+    "MCC": "3253",
+    "Description": "America West "
+  },
+  {
+    "MCC": "3254",
+    "Description": "U.S. Air Shuttle "
+  },
+  {
+    "MCC": "3256",
+    "Description": "Alaska Airlines Inc. "
+  },
+  {
+    "MCC": "3259",
+    "Description": "American Trans Air "
+  },
+  {
+    "MCC": "3260",
+    "Description": "Spirit Airlines "
+  },
+  {
+    "MCC": "3261",
+    "Description": "Air China "
+  },
+  {
+    "MCC": "3262",
+    "Description": "Reno Air "
+  },
+  {
+    "MCC": "3263",
+    "Description": "Aero Servicio Carabobo "
+  },
+  {
+    "MCC": "3266",
+    "Description": "Air Seychelles "
+  },
+  {
+    "MCC": "3267",
+    "Description": "Air Panama International "
+  },
+  {
+    "MCC": "3273",
+    "Description": "Rica Hotels "
+  },
+  {
+    "MCC": "3274",
+    "Description": "Inter Nor Hotels "
+  },
+  {
+    "MCC": "3280",
+    "Description": "Air Jamaica "
+  },
+  {
+    "MCC": "3281",
+    "Description": "Air Djibouti "
+  },
+  {
+    "MCC": "3282",
+    "Description": "Air Djibouti "
+  },
+  {
+    "MCC": "3284",
+    "Description": "Aero Virgin Islands "
+  },
+  {
+    "MCC": "3285",
+    "Description": "Aero Peru "
+  },
+  {
+    "MCC": "3286",
+    "Description": "Aero Nicaraguensis "
+  },
+  {
+    "MCC": "3287",
+    "Description": "Aero Coach Aviation "
+  },
+  {
+    "MCC": "3292",
+    "Description": "Cyprus Airways "
+  },
+  {
+    "MCC": "3293",
+    "Description": "Ecuatoriana "
+  },
+  {
+    "MCC": "3294",
+    "Description": "Ethiopian Airlines "
+  },
+  {
+    "MCC": "3295",
+    "Description": "Kenya Airways "
+  },
+  {
+    "MCC": "3296",
+    "Description": "Air Berlin "
+  },
+  {
+    "MCC": "3297",
+    "Description": "Tarom Romanian Air Transport "
+  },
+  {
+    "MCC": "3298",
+    "Description": "Air Mauritius "
+  },
+  {
+    "MCC": "3299",
+    "Description": "Wideroes Flyveselskap "
+  },
+  {
+    "MCC": "3351",
+    "Description": "Affiliated Auto Rental "
+  },
+  {
+    "MCC": "3352",
+    "Description": "American International "
+  },
+  {
+    "MCC": "3353",
+    "Description": "Brooks Rent-A-Car "
+  },
+  {
+    "MCC": "3354",
+    "Description": "Action Auto Rental "
+  },
+  {
+    "MCC": "3355",
+    "Description": "Sixt Car Rental "
+  },
+  {
+    "MCC": "3357",
+    "Description": "Hertz "
+  },
+  {
+    "MCC": "3359",
+    "Description": "Payless Car Rental "
+  },
+  {
+    "MCC": "3360",
+    "Description": "Snappy Car Rental "
+  },
+  {
+    "MCC": "3361",
+    "Description": "Airways "
+  },
+  {
+    "MCC": "3362",
+    "Description": "Altra Auto Rental "
+  },
+  {
+    "MCC": "3364",
+    "Description": "Agency Rent-A-Car "
+  },
+  {
+    "MCC": "3366",
+    "Description": "Budget Rent-A-Car "
+  },
+  {
+    "MCC": "3368",
+    "Description": "Holiday Rent-A-Car "
+  },
+  {
+    "MCC": "3370",
+    "Description": "Rent-A-Wreck "
+  },
+  {
+    "MCC": "3374",
+    "Description": "Accent Rent-A-Car "
+  },
+  {
+    "MCC": "3376",
+    "Description": "Ajax Rent-A-Car "
+  },
+  {
+    "MCC": "3380",
+    "Description": "Triangle Rent-A-Car "
+  },
+  {
+    "MCC": "3381",
+    "Description": "Europcar "
+  },
+  {
+    "MCC": "3385",
+    "Description": "Tropical Rent-A-Car "
+  },
+  {
+    "MCC": "3386",
+    "Description": "Showcase Rental Cars "
+  },
+  {
+    "MCC": "3387",
+    "Description": "Alamo Rent-A-Car "
+  },
+  {
+    "MCC": "3388",
+    "Description": "Merchants Rent-A-Car "
+  },
+  {
+    "MCC": "3389",
+    "Description": "Avis Rent-A-Car "
+  },
+  {
+    "MCC": "3390",
+    "Description": "Dollar Rent-A-Car "
+  },
+  {
+    "MCC": "3391",
+    "Description": "Europe By Car "
+  },
+  {
+    "MCC": "3393",
+    "Description": "National Car Rental "
+  },
+  {
+    "MCC": "3394",
+    "Description": "Kemwell Group "
+  },
+  {
+    "MCC": "3395",
+    "Description": "Thrifty Car Rental "
+  },
+  {
+    "MCC": "3396",
+    "Description": "Tilden Rent-A-Car "
+  },
+  {
+    "MCC": "3398",
+    "Description": "Econo-Car Rent-A-Car "
+  },
+  {
+    "MCC": "3400",
+    "Description": "Auto Host Rental Cars "
+  },
+  {
+    "MCC": "3405",
+    "Description": "Enterprise Rent-A-Car "
+  },
+  {
+    "MCC": "3409",
+    "Description": "General Rent-A-Car "
+  },
+  {
+    "MCC": "3412",
+    "Description": "A1 Rent-A-Car "
+  },
+  {
+    "MCC": "3414",
+    "Description": "Godfrey National "
+  },
+  {
+    "MCC": "3420",
+    "Description": "Ansa International "
+  },
+  {
+    "MCC": "3421",
+    "Description": "Allstate "
+  },
+  {
+    "MCC": "3423",
+    "Description": "AVCAR "
+  },
+  {
+    "MCC": "3425",
+    "Description": "Automate "
+  },
+  {
+    "MCC": "3427",
+    "Description": "Avon Rent-A-Car "
+  },
+  {
+    "MCC": "3428",
+    "Description": "Carey "
+  },
+  {
+    "MCC": "3429",
+    "Description": "Insurance Rent-A-Car "
+  },
+  {
+    "MCC": "3430",
+    "Description": "Major Rent-A-Car "
+  },
+  {
+    "MCC": "3431",
+    "Description": "Replacement Rent-A-Car "
+  },
+  {
+    "MCC": "3432",
+    "Description": "Reserve Rent-A-Car "
+  },
+  {
+    "MCC": "3433",
+    "Description": "Ugly Duckling Rent-A-Car "
+  },
+  {
+    "MCC": "3434",
+    "Description": "USA "
+  },
+  {
+    "MCC": "3435",
+    "Description": "Value Rent-A-Car "
+  },
+  {
+    "MCC": "3436",
+    "Description": "Autohansa "
+  },
+  {
+    "MCC": "3437",
+    "Description": "Cite "
+  },
+  {
+    "MCC": "3438",
+    "Description": "Interent "
+  },
+  {
+    "MCC": "3439",
+    "Description": "Milleville "
+  },
+  {
+    "MCC": "3441",
+    "Description": "Advantage Rent A Car "
+  },
+  {
+    "MCC": "3513",
+    "Description": "Westin Hotels "
+  },
+  {
+    "MCC": "3514",
+    "Description": "Amerisuites "
+  },
+  {
+    "MCC": "3515",
+    "Description": "Rodeway Inns International "
+  },
+  {
+    "MCC": "3516",
+    "Description": "La Quinta Motor Inns "
+  },
+  {
+    "MCC": "3517",
+    "Description": "Americana Hotels Corporation "
+  },
+  {
+    "MCC": "3518",
+    "Description": "Sol Hotels "
+  },
+  {
+    "MCC": "3519",
+    "Description": "PLM/ETAP International "
+  },
+  {
+    "MCC": "3520",
+    "Description": "Meridien "
+  },
+  {
+    "MCC": "3521",
+    "Description": "Crest Hotels "
+  },
+  {
+    "MCC": "3522",
+    "Description": "Tokyo Group "
+  },
+  {
+    "MCC": "3523",
+    "Description": "Peninsula Hotels "
+  },
+  {
+    "MCC": "3524",
+    "Description": "Welcomgroup "
+  },
+  {
+    "MCC": "3525",
+    "Description": "Dunfey Hotels "
+  },
+  {
+    "MCC": "3526",
+    "Description": "Prince Hotels "
+  },
+  {
+    "MCC": "3527",
+    "Description": "Downtowner Passport "
+  },
+  {
+    "MCC": "3528",
+    "Description": "Thunderbird/Red Lion "
+  },
+  {
+    "MCC": "3529",
+    "Description": "CP (Canadian Pacific) "
+  },
+  {
+    "MCC": "3530",
+    "Description": "Renaissance Hotels "
+  },
+  {
+    "MCC": "3531",
+    "Description": "Kauai Coconut Beach Resort "
+  },
+  {
+    "MCC": "3532",
+    "Description": "Royal Kona Resort "
+  },
+  {
+    "MCC": "3533",
+    "Description": "Park Inn by Radisson "
+  },
+  {
+    "MCC": "3534",
+    "Description": "Southern Pacific Hotel "
+  },
+  {
+    "MCC": "3535",
+    "Description": "Hilton International "
+  },
+  {
+    "MCC": "3536",
+    "Description": "AMFAC Hotels "
+  },
+  {
+    "MCC": "3537",
+    "Description": "Ana Hotels "
+  },
+  {
+    "MCC": "3538",
+    "Description": "Concorde Hotels "
+  },
+  {
+    "MCC": "3539",
+    "Description": "Summerfield Suites Hotel "
+  },
+  {
+    "MCC": "3540",
+    "Description": "Iberotel "
+  },
+  {
+    "MCC": "3541",
+    "Description": "Hotel Okura "
+  },
+  {
+    "MCC": "3542",
+    "Description": "Royal Hotels "
+  },
+  {
+    "MCC": "3543",
+    "Description": "Four Seasons "
+  },
+  {
+    "MCC": "3544",
+    "Description": "Cigahotels "
+  },
+  {
+    "MCC": "3545",
+    "Description": "Shangri-La International "
+  },
+  {
+    "MCC": "3546",
+    "Description": "Hotel Sierra "
+  },
+  {
+    "MCC": "3547",
+    "Description": "Breakers Resort "
+  },
+  {
+    "MCC": "3548",
+    "Description": "Hotels Melia "
+  },
+  {
+    "MCC": "3549",
+    "Description": "Auberge Des Governeurs "
+  },
+  {
+    "MCC": "3550",
+    "Description": "Regal 8 Inns "
+  },
+  {
+    "MCC": "3551",
+    "Description": "Mirage Hotel and Casino "
+  },
+  {
+    "MCC": "3552",
+    "Description": "Coast Hotels "
+  },
+  {
+    "MCC": "3553",
+    "Description": "Parks Inns International "
+  },
+  {
+    "MCC": "3554",
+    "Description": "Pinehurst Resort "
+  },
+  {
+    "MCC": "3555",
+    "Description": "Treasure Island Hotel and Casino "
+  },
+  {
+    "MCC": "3556",
+    "Description": "Barton Creek Resort "
+  },
+  {
+    "MCC": "3557",
+    "Description": "Manhattan East Suite Hotels "
+  },
+  {
+    "MCC": "3558",
+    "Description": "Jolly Hotels "
+  },
+  {
+    "MCC": "3559",
+    "Description": "Candlewood Suites "
+  },
+  {
+    "MCC": "3560",
+    "Description": "Aladdin Resort and Casino "
+  },
+  {
+    "MCC": "3561",
+    "Description": "Golden Nugget "
+  },
+  {
+    "MCC": "3562",
+    "Description": "Comfort Hotel International "
+  },
+  {
+    "MCC": "3563",
+    "Description": "Journeys End Motels "
+  },
+  {
+    "MCC": "3564",
+    "Description": "Sams Town Hotel and Casino "
+  },
+  {
+    "MCC": "3565",
+    "Description": "Relax Inns "
+  },
+  {
+    "MCC": "3566",
+    "Description": "Garden Place Hotel "
+  },
+  {
+    "MCC": "3567",
+    "Description": "Soho Grand Hotel "
+  },
+  {
+    "MCC": "3568",
+    "Description": "Ladbroke Hotels "
+  },
+  {
+    "MCC": "3569",
+    "Description": "Tribeca Grand Hotel "
+  },
+  {
+    "MCC": "3570",
+    "Description": "Grand Met Forum Hotels "
+  },
+  {
+    "MCC": "3571",
+    "Description": "Grand Wailea Resort "
+  },
+  {
+    "MCC": "3572",
+    "Description": "Miyako Hotel/Kintetsu "
+  },
+  {
+    "MCC": "3573",
+    "Description": "Sandman Hotels "
+  },
+  {
+    "MCC": "3574",
+    "Description": "Venture Inn "
+  },
+  {
+    "MCC": "3575",
+    "Description": "Vagabond Hotels "
+  },
+  {
+    "MCC": "3576",
+    "Description": "La Quinta Resort "
+  },
+  {
+    "MCC": "3577",
+    "Description": "Mandarin International "
+  },
+  {
+    "MCC": "3578",
+    "Description": "Frankenmuth Bavarian "
+  },
+  {
+    "MCC": "3579",
+    "Description": "Hotel Mercure "
+  },
+  {
+    "MCC": "3580",
+    "Description": "Hotel Del Coronado "
+  },
+  {
+    "MCC": "3581",
+    "Description": "Delta Hotels "
+  },
+  {
+    "MCC": "3582",
+    "Description": "California Hotel and Casino "
+  },
+  {
+    "MCC": "3583",
+    "Description": "Radisson BLU "
+  },
+  {
+    "MCC": "3584",
+    "Description": "Princess Hotels International "
+  },
+  {
+    "MCC": "3585",
+    "Description": "Hungar Hotels "
+  },
+  {
+    "MCC": "3586",
+    "Description": "Sokos Hotel "
+  },
+  {
+    "MCC": "3587",
+    "Description": "Doral Hotels "
+  },
+  {
+    "MCC": "3588",
+    "Description": "Helmsley Hotels "
+  },
+  {
+    "MCC": "3589",
+    "Description": "Doral Golf Resort "
+  },
+  {
+    "MCC": "3590",
+    "Description": "Fairmont Hotels Corporation "
+  },
+  {
+    "MCC": "3591",
+    "Description": "Sonesta International Hotels "
+  },
+  {
+    "MCC": "3592",
+    "Description": "Omni International "
+  },
+  {
+    "MCC": "3593",
+    "Description": "Cunard Hotels "
+  },
+  {
+    "MCC": "3594",
+    "Description": "Arizona Biltmore "
+  },
+  {
+    "MCC": "3595",
+    "Description": "Hospitality Inns "
+  },
+  {
+    "MCC": "3596",
+    "Description": "Wynn Las Vegas "
+  },
+  {
+    "MCC": "3597",
+    "Description": "Riverside Resort and Casino "
+  },
+  {
+    "MCC": "3598",
+    "Description": "Regent Hotels "
+  },
+  {
+    "MCC": "3599",
+    "Description": "Pannonia Hotels "
+  },
+  {
+    "MCC": "3600",
+    "Description": "Saddlebrook Resort–Tampa "
+  },
+  {
+    "MCC": "3601",
+    "Description": "Tradewinds Resort "
+  },
+  {
+    "MCC": "3602",
+    "Description": "Hudson Hotel "
+  },
+  {
+    "MCC": "3603",
+    "Description": "Noahs Hotel (Melbourne) "
+  },
+  {
+    "MCC": "3604",
+    "Description": "Hilton Garden Inn "
+  },
+  {
+    "MCC": "3605",
+    "Description": "Jurys Doyle Hotel Group "
+  },
+  {
+    "MCC": "3606",
+    "Description": "Jefferson Hotel "
+  },
+  {
+    "MCC": "3607",
+    "Description": "Fontainebleau Resort "
+  },
+  {
+    "MCC": "3608",
+    "Description": "Gaylord Opryland "
+  },
+  {
+    "MCC": "3609",
+    "Description": "Gaylord Palms "
+  },
+  {
+    "MCC": "3610",
+    "Description": "Gaylord Texan "
+  },
+  {
+    "MCC": "3611",
+    "Description": "C MON INN "
+  },
+  {
+    "MCC": "3612",
+    "Description": "Moevenpick "
+  },
+  {
+    "MCC": "3613",
+    "Description": "Microtel Inn and Suites "
+  },
+  {
+    "MCC": "3614",
+    "Description": "AmericInn "
+  },
+  {
+    "MCC": "3615",
+    "Description": "Travelodge Motels "
+  },
+  {
+    "MCC": "3616",
+    "Description": "Hermitage Hotels "
+  },
+  {
+    "MCC": "3617",
+    "Description": "America’s Best Value Inn "
+  },
+  {
+    "MCC": "3618",
+    "Description": "Great Wolf "
+  },
+  {
+    "MCC": "3619",
+    "Description": "Aloft "
+  },
+  {
+    "MCC": "3620",
+    "Description": "Binions Horseshoe Club "
+  },
+  {
+    "MCC": "3621",
+    "Description": "Extended Stay "
+  },
+  {
+    "MCC": "3622",
+    "Description": "Merlin Hotel (Perth) "
+  },
+  {
+    "MCC": "3623",
+    "Description": "Dorint Hotels "
+  },
+  {
+    "MCC": "3624",
+    "Description": "Lady Luck Hotel and Casino "
+  },
+  {
+    "MCC": "3625",
+    "Description": "Hotel Universal "
+  },
+  {
+    "MCC": "3626",
+    "Description": "Studio Plus "
+  },
+  {
+    "MCC": "3627",
+    "Description": "Extended Stay America "
+  },
+  {
+    "MCC": "3628",
+    "Description": "Excalibur Hotel and Casino "
+  },
+  {
+    "MCC": "3629",
+    "Description": "Dan Hotels "
+  },
+  {
+    "MCC": "3630",
+    "Description": "Extended Stay Deluxe "
+  },
+  {
+    "MCC": "3631",
+    "Description": "Sleep Inn "
+  },
+  {
+    "MCC": "3632",
+    "Description": "The Phoenician "
+  },
+  {
+    "MCC": "3633",
+    "Description": "Rank Hotels "
+  },
+  {
+    "MCC": "3634",
+    "Description": "Swissotel "
+  },
+  {
+    "MCC": "3635",
+    "Description": "Reso Hotels "
+  },
+  {
+    "MCC": "3636",
+    "Description": "Sarova Hotels "
+  },
+  {
+    "MCC": "3637",
+    "Description": "Ramada Inns "
+  },
+  {
+    "MCC": "3638",
+    "Description": "Howard Johnson "
+  },
+  {
+    "MCC": "3639",
+    "Description": "Mount Charlotte Hotels "
+  },
+  {
+    "MCC": "3640",
+    "Description": "Hyatt Hotels/International "
+  },
+  {
+    "MCC": "3641",
+    "Description": "Sofitel Hotels "
+  },
+  {
+    "MCC": "3642",
+    "Description": "Novotel Sieh (Accor) "
+  },
+  {
+    "MCC": "3643",
+    "Description": "Steigenberger "
+  },
+  {
+    "MCC": "3644",
+    "Description": "Econo-Travel Motor Hotel "
+  },
+  {
+    "MCC": "3645",
+    "Description": "Queens Moat Houses "
+  },
+  {
+    "MCC": "3646",
+    "Description": "Swallow Hotels "
+  },
+  {
+    "MCC": "3647",
+    "Description": "Grupo Hotels HUSA SA "
+  },
+  {
+    "MCC": "3648",
+    "Description": "De Vere Hotels "
+  },
+  {
+    "MCC": "3649",
+    "Description": "Radisson "
+  },
+  {
+    "MCC": "3650",
+    "Description": "Red Roof Inns "
+  },
+  {
+    "MCC": "3651",
+    "Description": "Imperial London Hotels "
+  },
+  {
+    "MCC": "3652",
+    "Description": "Embassy Hotels "
+  },
+  {
+    "MCC": "3653",
+    "Description": "Penta Hotels "
+  },
+  {
+    "MCC": "3654",
+    "Description": "Loews Hotels "
+  },
+  {
+    "MCC": "3655",
+    "Description": "Scandic Hotels "
+  },
+  {
+    "MCC": "3656",
+    "Description": "Sara Hotels "
+  },
+  {
+    "MCC": "3657",
+    "Description": "Oberoi Hotels "
+  },
+  {
+    "MCC": "3658",
+    "Description": "New Otani Hotels "
+  },
+  {
+    "MCC": "3659",
+    "Description": "Taj Hotels Intl "
+  },
+  {
+    "MCC": "3660",
+    "Description": "Knights Inn "
+  },
+  {
+    "MCC": "3661",
+    "Description": "Metropole Hotels "
+  },
+  {
+    "MCC": "3662",
+    "Description": "Circus Circus Hotel and Casino "
+  },
+  {
+    "MCC": "3663",
+    "Description": "Hoteles El Presidente "
+  },
+  {
+    "MCC": "3664",
+    "Description": "Flag Inns "
+  },
+  {
+    "MCC": "3665",
+    "Description": "Hampton Inns "
+  },
+  {
+    "MCC": "3666",
+    "Description": "Stakis Hotels "
+  },
+  {
+    "MCC": "3667",
+    "Description": "Luxor Hotel and Casino "
+  },
+  {
+    "MCC": "3668",
+    "Description": "Maritim "
+  },
+  {
+    "MCC": "3669",
+    "Description": "Eldorado Hotel and Casino "
+  },
+  {
+    "MCC": "3670",
+    "Description": "Arcade "
+  },
+  {
+    "MCC": "3671",
+    "Description": "Arctia "
+  },
+  {
+    "MCC": "3672",
+    "Description": "Campanile "
+  },
+  {
+    "MCC": "3673",
+    "Description": "Ibusz Hotels "
+  },
+  {
+    "MCC": "3674",
+    "Description": "Rantasipi Hotels "
+  },
+  {
+    "MCC": "3675",
+    "Description": "Interhotel Cedok "
+  },
+  {
+    "MCC": "3676",
+    "Description": "Monte Carlo Hotel and Casino "
+  },
+  {
+    "MCC": "3677",
+    "Description": "Climat De France "
+  },
+  {
+    "MCC": "3678",
+    "Description": "Cumulus Hotels "
+  },
+  {
+    "MCC": "3679",
+    "Description": "Silver Legacy Hotel and Casino "
+  },
+  {
+    "MCC": "3680",
+    "Description": "Hoteis Othan "
+  },
+  {
+    "MCC": "3681",
+    "Description": "Adams Mark "
+  },
+  {
+    "MCC": "3682",
+    "Description": "Sahara Hotel and Casino "
+  },
+  {
+    "MCC": "3683",
+    "Description": "Bradbury Suites "
+  },
+  {
+    "MCC": "3684",
+    "Description": "Budget Host Inns "
+  },
+  {
+    "MCC": "3685",
+    "Description": "Budgetel "
+  },
+  {
+    "MCC": "3686",
+    "Description": "Suisse Chalet "
+  },
+  {
+    "MCC": "3687",
+    "Description": "Clarion Hotel "
+  },
+  {
+    "MCC": "3688",
+    "Description": "Compri Hotel "
+  },
+  {
+    "MCC": "3689",
+    "Description": "Consort "
+  },
+  {
+    "MCC": "3690",
+    "Description": "Courtyard by Marriott "
+  },
+  {
+    "MCC": "3691",
+    "Description": "Dillon Inn "
+  },
+  {
+    "MCC": "3692",
+    "Description": "Doubletree "
+  },
+  {
+    "MCC": "3693",
+    "Description": "Drury Inn "
+  },
+  {
+    "MCC": "3694",
+    "Description": "Economy Inns Of America "
+  },
+  {
+    "MCC": "3695",
+    "Description": "Embassy Suites "
+  },
+  {
+    "MCC": "3696",
+    "Description": "Excel Inn "
+  },
+  {
+    "MCC": "3697",
+    "Description": "Fairfield Hotel "
+  },
+  {
+    "MCC": "3698",
+    "Description": "Harley Hotel "
+  },
+  {
+    "MCC": "3699",
+    "Description": "Midway Motor Lodge "
+  },
+  {
+    "MCC": "3700",
+    "Description": "Motel 6 "
+  },
+  {
+    "MCC": "3701",
+    "Description": "La Mansion Del Rio "
+  },
+  {
+    "MCC": "3702",
+    "Description": "Registry Hotels "
+  },
+  {
+    "MCC": "3703",
+    "Description": "Residence Inn "
+  },
+  {
+    "MCC": "3704",
+    "Description": "Royce Hotel "
+  },
+  {
+    "MCC": "3705",
+    "Description": "Sandman Inn "
+  },
+  {
+    "MCC": "3706",
+    "Description": "Shilo Inn "
+  },
+  {
+    "MCC": "3707",
+    "Description": "Shoneys Inn "
+  },
+  {
+    "MCC": "3708",
+    "Description": "Virgin River Hotel and Casino "
+  },
+  {
+    "MCC": "3709",
+    "Description": "Super 8 Motel "
+  },
+  {
+    "MCC": "3710",
+    "Description": "Ritz-Carlton "
+  },
+  {
+    "MCC": "3711",
+    "Description": "Flag Inns (Australia) "
+  },
+  {
+    "MCC": "3712",
+    "Description": "Buffalo Bills Hotel and Casino "
+  },
+  {
+    "MCC": "3713",
+    "Description": "Quality Pacific Hotel "
+  },
+  {
+    "MCC": "3714",
+    "Description": "Four Seasons (Australia) "
+  },
+  {
+    "MCC": "3715",
+    "Description": "Fairfield Inn "
+  },
+  {
+    "MCC": "3716",
+    "Description": "Carlton Hotels "
+  },
+  {
+    "MCC": "3717",
+    "Description": "City Lodge Hotels "
+  },
+  {
+    "MCC": "3718",
+    "Description": "Karos Hotels "
+  },
+  {
+    "MCC": "3719",
+    "Description": "Protea Hotels "
+  },
+  {
+    "MCC": "3720",
+    "Description": "Southern Sun Hotels "
+  },
+  {
+    "MCC": "3721",
+    "Description": "Conrad Hotels "
+  },
+  {
+    "MCC": "3722",
+    "Description": "Wyndham "
+  },
+  {
+    "MCC": "3723",
+    "Description": "Rica Hotels "
+  },
+  {
+    "MCC": "3724",
+    "Description": "Inter Nor Hotels "
+  },
+  {
+    "MCC": "3725",
+    "Description": "Sea Pines Resort "
+  },
+  {
+    "MCC": "3726",
+    "Description": "Rio Suites "
+  },
+  {
+    "MCC": "3727",
+    "Description": "Broadmoor Hotel "
+  },
+  {
+    "MCC": "3728",
+    "Description": "Ballys Hotel and Casino "
+  },
+  {
+    "MCC": "3729",
+    "Description": "John Ascuagas Nugget "
+  },
+  {
+    "MCC": "3730",
+    "Description": "MGM Grand Hotel "
+  },
+  {
+    "MCC": "3731",
+    "Description": "Harrah’s Hotels and Casinos "
+  },
+  {
+    "MCC": "3732",
+    "Description": "Opryland Hotel "
+  },
+  {
+    "MCC": "3733",
+    "Description": "Boca Raton Resort "
+  },
+  {
+    "MCC": "3734",
+    "Description": "Harvey Bristol Hotels "
+  },
+  {
+    "MCC": "3735",
+    "Description": "Masters Economy Inns "
+  },
+  {
+    "MCC": "3736",
+    "Description": "Colorado Belle Edgewater Resort "
+  },
+  {
+    "MCC": "3737",
+    "Description": "Riviera Hotel and Casino "
+  },
+  {
+    "MCC": "3738",
+    "Description": "Tropicana Resort and Casino "
+  },
+  {
+    "MCC": "3739",
+    "Description": "Woodside Hotels and Resorts "
+  },
+  {
+    "MCC": "3740",
+    "Description": "Towneplace Suites "
+  },
+  {
+    "MCC": "3741",
+    "Description": "Millennium Broadway Hotel "
+  },
+  {
+    "MCC": "3742",
+    "Description": "Club Med "
+  },
+  {
+    "MCC": "3743",
+    "Description": "Biltmore Hotel and Suites "
+  },
+  {
+    "MCC": "3744",
+    "Description": "Carefree Resorts "
+  },
+  {
+    "MCC": "3745",
+    "Description": "St. Regis Hotel "
+  },
+  {
+    "MCC": "3746",
+    "Description": "The Eliot Hotel "
+  },
+  {
+    "MCC": "3747",
+    "Description": "Club Corporation/Club Resorts "
+  },
+  {
+    "MCC": "3748",
+    "Description": "Wellesley Inns "
+  },
+  {
+    "MCC": "3749",
+    "Description": "Beverly Hills Hotel "
+  },
+  {
+    "MCC": "3750",
+    "Description": "Crowne Plaza Hotels "
+  },
+  {
+    "MCC": "3751",
+    "Description": "Homewood Suites "
+  },
+  {
+    "MCC": "3752",
+    "Description": "Peabody Hotels "
+  },
+  {
+    "MCC": "3753",
+    "Description": "Greenbriar Resorts "
+  },
+  {
+    "MCC": "3754",
+    "Description": "Amelia Island Plantation "
+  },
+  {
+    "MCC": "3755",
+    "Description": "Homestead "
+  },
+  {
+    "MCC": "3757",
+    "Description": "Canyon Ranch "
+  },
+  {
+    "MCC": "3758",
+    "Description": "Kahala Mandarin Oriental Hotel "
+  },
+  {
+    "MCC": "3759",
+    "Description": "Orchid At Mauna Lai "
+  },
+  {
+    "MCC": "3760",
+    "Description": "Halekulani Hotel/Waikiki Parc "
+  },
+  {
+    "MCC": "3761",
+    "Description": "Primadonna Hotel and Casino "
+  },
+  {
+    "MCC": "3762",
+    "Description": "Whiskey Pete’s Hotel and Casino "
+  },
+  {
+    "MCC": "3763",
+    "Description": "Chateau Elan Winery and Resort "
+  },
+  {
+    "MCC": "3764",
+    "Description": "Beau Rivage Hotel and Casino "
+  },
+  {
+    "MCC": "3765",
+    "Description": "Bellagio "
+  },
+  {
+    "MCC": "3766",
+    "Description": "Fremont Hotel and Casino "
+  },
+  {
+    "MCC": "3767",
+    "Description": "Main Street Station Hotel and Casino "
+  },
+  {
+    "MCC": "3768",
+    "Description": "Silver Star Hotel and Casino "
+  },
+  {
+    "MCC": "3769",
+    "Description": "Stratosphere Hotel and Casino "
+  },
+  {
+    "MCC": "3770",
+    "Description": "Springhill Suites "
+  },
+  {
+    "MCC": "3771",
+    "Description": "Caesars Hotel and Casino "
+  },
+  {
+    "MCC": "3772",
+    "Description": "Nemacolin Woodlands "
+  },
+  {
+    "MCC": "3773",
+    "Description": "Venetian Resort Hotel and Casino "
+  },
+  {
+    "MCC": "3774",
+    "Description": "New York-New York Hotel and Casino "
+  },
+  {
+    "MCC": "3775",
+    "Description": "Sands Resort "
+  },
+  {
+    "MCC": "3776",
+    "Description": "Nevele Grande Resort and Country Club "
+  },
+  {
+    "MCC": "3777",
+    "Description": "Mandalay Bay Resort "
+  },
+  {
+    "MCC": "3778",
+    "Description": "Four Points Hotels "
+  },
+  {
+    "MCC": "3779",
+    "Description": "W Hotels "
+  },
+  {
+    "MCC": "3780",
+    "Description": "Disneyland Resorts "
+  },
+  {
+    "MCC": "3781",
+    "Description": "Patricia Grand Resort Hotels "
+  },
+  {
+    "MCC": "3782",
+    "Description": "Rosen Hotel and Resorts "
+  },
+  {
+    "MCC": "3783",
+    "Description": "Town and Country Resort and Convention Center "
+  },
+  {
+    "MCC": "3784",
+    "Description": "First Hospitality Hotels "
+  },
+  {
+    "MCC": "3785",
+    "Description": "Outrigger Hotels and Resorts "
+  },
+  {
+    "MCC": "3786",
+    "Description": "Ohana Hotels of Hawaii "
+  },
+  {
+    "MCC": "3787",
+    "Description": "Caribe Royal Resort Suite and Villas "
+  },
+  {
+    "MCC": "3788",
+    "Description": "Ala Moana Hotel "
+  },
+  {
+    "MCC": "3789",
+    "Description": "Smugglers Notch Resort "
+  },
+  {
+    "MCC": "3790",
+    "Description": "Raffles Hotels "
+  },
+  {
+    "MCC": "3791",
+    "Description": "Staybridge Suites "
+  },
+  {
+    "MCC": "3792",
+    "Description": "Claridge Casino Hotel "
+  },
+  {
+    "MCC": "3793",
+    "Description": "The Flamingo Hotels "
+  },
+  {
+    "MCC": "3794",
+    "Description": "Grand Casino Hotels "
+  },
+  {
+    "MCC": "3795",
+    "Description": "Paris Las Vegas Hotel "
+  },
+  {
+    "MCC": "3796",
+    "Description": "Peppermill Hotel Casino "
+  },
+  {
+    "MCC": "3797",
+    "Description": "Atlantic City Hilton "
+  },
+  {
+    "MCC": "3798",
+    "Description": "Embassy Vacation Resort "
+  },
+  {
+    "MCC": "3799",
+    "Description": "Hale Koa Hotel "
+  },
+  {
+    "MCC": "3800",
+    "Description": "Homestead Suites "
+  },
+  {
+    "MCC": "3801",
+    "Description": "Wilderness Hotel and Resort "
+  },
+  {
+    "MCC": "3802",
+    "Description": "The Palace Hotel "
+  },
+  {
+    "MCC": "3803",
+    "Description": "The Wigwam Golf Resort and Spa "
+  },
+  {
+    "MCC": "3804",
+    "Description": "The Diplomat Country Club and Spa "
+  },
+  {
+    "MCC": "3805",
+    "Description": "The Atlantic "
+  },
+  {
+    "MCC": "3806",
+    "Description": "Princeville Resort "
+  },
+  {
+    "MCC": "3807",
+    "Description": "Element "
+  },
+  {
+    "MCC": "3808",
+    "Description": "LXR (Luxury Resorts) "
+  },
+  {
+    "MCC": "3809",
+    "Description": "Settle Inn "
+  },
+  {
+    "MCC": "3810",
+    "Description": "La Costa Resort "
+  },
+  {
+    "MCC": "3811",
+    "Description": "Premier Travel Inns "
+  },
+  {
+    "MCC": "3812",
+    "Description": "Hyatt Place "
+  },
+  {
+    "MCC": "3813",
+    "Description": "Hotel Indigo "
+  },
+  {
+    "MCC": "3814",
+    "Description": "The Roosevelt Hotel NY "
+  },
+  {
+    "MCC": "3815",
+    "Description": "Nickelodeon Family Suites by Holiday Inn "
+  },
+  {
+    "MCC": "3816",
+    "Description": "Home2Suites "
+  },
+  {
+    "MCC": "3817",
+    "Description": "Affinia "
+  },
+  {
+    "MCC": "3818",
+    "Description": "Mainstay Suites "
+  },
+  {
+    "MCC": "3819",
+    "Description": "Oxford Suites "
+  },
+  {
+    "MCC": "3820",
+    "Description": "Jumeirah Essex House "
+  },
+  {
+    "MCC": "3821",
+    "Description": "Caribe Royal "
+  },
+  {
+    "MCC": "3822",
+    "Description": "Crossland "
+  },
+  {
+    "MCC": "3823",
+    "Description": "Grand Sierra Resort "
+  },
+  {
+    "MCC": "3824",
+    "Description": "Aria "
+  },
+  {
+    "MCC": "3825",
+    "Description": "Vdara "
+  },
+  {
+    "MCC": "3826",
+    "Description": "Autograph "
+  },
+  {
+    "MCC": "3827",
+    "Description": "Galt House "
+  },
+  {
+    "MCC": "3828",
+    "Description": "Cosmopolitan of Las Vegas "
+  },
+  {
+    "MCC": "3829",
+    "Description": "Country Inn By Carlson "
+  },
+  {
+    "MCC": "3830",
+    "Description": "Park Plaza Hotel "
+  },
+  {
+    "MCC": "3831",
+    "Description": "Waldorf "
+  }
+]
