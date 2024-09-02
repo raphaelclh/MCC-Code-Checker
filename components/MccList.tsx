@@ -39,7 +39,7 @@ const MccList: React.FC = () => {
     );
   });
   return (
-    <Box>
+    <Box width="100%" p={5}>
       <Flex align="center" justify="center" mb={3}>
         <InputGroup size="md">
           <Input
@@ -48,30 +48,17 @@ const MccList: React.FC = () => {
             value={searchTerm}
             onChange={onChangeSearchInput}
           />
-          {/* <InputRightElement width="4.5rem">
-            <Button h="1.75rem" size="sm" onClick={() => {}}>
-              Search
-            </Button>
-          </InputRightElement> */}
         </InputGroup>
       </Flex>
 
-      <Box>
-        {filteredMccList
-          .sort((a, b) => Number(a.MCC) - Number(b.MCC))
-          .map((item: MccJsonProps) => (
-            <Flex
-              key={item.MCC}
-              justify="space-between"
-              p="2"
-              borderBottom="1px"
-              borderColor="gray.200"
-            >
-              <Box fontWeight="semibold">{formatMccCode(item.MCC)}</Box>
-              <Box>{item.Description}</Box>
-            </Flex>
-          ))}
-      </Box>
+      {filteredMccList
+        .sort((a, b) => Number(a.MCC) - Number(b.MCC))
+        .map((item: MccJsonProps) => (
+          <Flex key={item.MCC} p="2" borderBottom="1px" borderColor="gray.200">
+            <Box fontWeight="semibold">{formatMccCode(item.MCC)}</Box>
+            <Box ml={10}>{item.Description}</Box>
+          </Flex>
+        ))}
     </Box>
   );
 };
