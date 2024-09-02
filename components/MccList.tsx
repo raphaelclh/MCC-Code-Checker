@@ -70,7 +70,9 @@ const MccList: React.FC = () => {
               <Box width="80px">
                 <Text as="i">{formatMccCode(item.MCC)}</Text>
               </Box>
-              <Box ml={10}>{item.Description}</Box>
+              <Box ml={10}>
+                <Text>{item.Description}</Text>
+              </Box>
             </Flex>
           ))
       ) : (
