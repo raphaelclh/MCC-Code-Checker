@@ -1,5 +1,4 @@
 import React from "react";
-import { List, AutoSizer, ListRowProps } from "react-virtualized";
 import MccJson from "../files/mcc.json";
 import {
   Box,
@@ -50,15 +49,37 @@ const MccList: React.FC = () => {
           />
         </InputGroup>
       </Flex>
-
-      {filteredMccList
-        .sort((a, b) => Number(a.MCC) - Number(b.MCC))
-        .map((item: MccJsonProps) => (
-          <Flex key={item.MCC} p="2" borderBottom="1px" borderColor="gray.200">
-            <Box fontWeight="semibold">{formatMccCode(item.MCC)}</Box>
-            <Box ml={10}>{item.Description}</Box>
-          </Flex>
-        ))}
+      <Flex p="2" borderBottom="1px" borderColor="gray.200">
+        <Box width="80px">
+          <Text as="b">MCC Code</Text>
+        </Box>
+        <Box ml={10}>
+          <Text as="b">Description</Text>
+        </Box>
+      </Flex>
+      {filteredMccList.length > 0 ? (
+        filteredMccList
+          .sort((a, b) => Number(a.MCC) - Number(b.MCC))
+          .map((item: MccJsonProps) => (
+            <Flex
+              key={item.MCC}
+              p="2"
+              borderBottom="1px"
+              borderColor="gray.200"
+            >
+              <Box width="80px">
+                <Text as="i">{formatMccCode(item.MCC)}</Text>
+              </Box>
+              <Box ml={10}>{item.Description}</Box>
+            </Flex>
+          ))
+      ) : (
+        <Flex p="2" justifyContent="center">
+          <Box>
+            <Text as="b">None</Text>
+          </Box>
+        </Flex>
+      )}
     </Box>
   );
 };
